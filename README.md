@@ -1,4 +1,4 @@
-# ProtoTech - Controle de Clientes e Pedidos
+# ProtoTechERP - Controle de Clientes e Pedidos
 
 O projeto **ProtoTech - Controle de Clientes e Pedidos** é uma aplicação web desenvolvida em Java com o framework Spring Boot. O sistema tem como objetivo principal gerenciar o fluxo de clientes, produtos, controle de estoque e o processamento de pedidos, oferecendo também a funcionalidade de geração de relatórios em formato PDF.
 
